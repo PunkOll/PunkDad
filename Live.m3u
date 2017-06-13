@@ -11,7 +11,7 @@ http://195.189.203.18:8080/play/a01d
 http://195.189.203.18:8080/play/a01g
 #EXTINF:-1,c4 l
 http://195.189.203.18:8080/play/a01e
-#EXTINF:-1,----|ANGLAIS|----
+#EXTINF:-1,----|Dont use FHD|----
 #EXTINF:-1,UK|UK|BBC News HD
 http://topiptv.net:5890/live/bmw/1234/4182.ts
 #EXTINF:-1,UK|BBC News
@@ -228,7 +228,7 @@ http://topiptv.net:5890/live/bmw/1234/289.ts
 http://topiptv.net:5890/live/bmw/1234/1260.ts
 #EXTINF:-1,UK|AnimalPlanet
 http://topiptv.net:5890/live/bmw/1234/288.ts
-#EXTINF:-1,--|UK ENFANTS|--
+#EXTINF:-1,--|UK KIDS|--
 http://topiptv.net:5890/live/bmw/1234/1451.ts
 #EXTINF:-1,UK|Nick Jr
 http://topiptv.net:5890/live/bmw/1234/1084.ts
